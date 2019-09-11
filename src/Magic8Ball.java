@@ -3,7 +3,8 @@
  * Source Code File: Magic8Ball.java
  * Programmer: Tyler Maxwell
  * Due: 9/25/19
- * Description:
+ * Description: A program that prompts a user for a question and responds with a randomly generated "Magic 8 Ball" type
+ * response.
  */
 
 import java.util.Scanner;
